@@ -226,10 +226,10 @@ nav {
 .sidebar { 
   width: 200px;
   margin: 0 0 16px 0;
-  background: #ddd; /* Show a solid color for older browsers */
-  background: -moz-linear-gradient(#fff, #E6E4D4);
-  background: -o-linear-gradient(#fff, #E6E4D4);
-  background: -webkit-linear-gradient(#fff, #E6E4D4);
+  background: background: #DFE7CB; /* Show a solid color for older browsers */
+  background: -moz-linear-gradient(#E3EFD5, #DFE7CB);
+  background: -o-linear-gradient(#E3EFD5, #DFE7CB);
+  background: -webkit-linear-gradient(#E3EFD5,#DFE7CB );
   -webkit-box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 2px;
   -moz-box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 2px;
   box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 2px;
